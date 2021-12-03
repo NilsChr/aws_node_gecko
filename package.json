@@ -1,5 +1,5 @@
 {
-  "name": "udp game server",
+  "name": "node-gecko-test",
   "version": "2.0.0",
   "description": "Simple chat app example with geckos.io",
   "scripts": {
